@@ -1,6 +1,6 @@
 # Cold Email Internship Generator
 
-This Python script automates the process of generating cold emails for CS/IT internship inquiries using Ollama (model: llama3:8b).
+This Python script automates the process of generating cold emails for hiring opportunities using Ollama (model: llama3:8b).
 
 ## How it works
 - Reads `input.txt` with alternating lines of website links and emails.
