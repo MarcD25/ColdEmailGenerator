@@ -10,7 +10,7 @@ This Python script automates the process of generating cold emails for CS/IT int
 
 ## Requirements
 - Python 3.8+
-- `requests` and `beautifulsoup4` libraries
+- `requests`, `beautifulsoup4`, `pyPDF2`, and some `google` libraries
 - Ollama running locally with the `llama3:8b` model installed
 
 ## Setup Instructions
