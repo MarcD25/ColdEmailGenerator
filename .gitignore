@@ -17,3 +17,4 @@ output_emails/
 Thumbs.db
 # Add test input and prompt variants
 prompt copy.txt
+input copy.txt
