@@ -1,0 +1,19 @@
+# Sensitive and environment-specific files
+credentials.json
+token.pickle
+sent.txt
+resume.pdf
+# Python cache and environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+# Output and generated files
+output_emails/
+# VSCode and OS files
+.vscode/
+.DS_Store
+Thumbs.db
+# Add test input and prompt variants
+prompt copy.txt

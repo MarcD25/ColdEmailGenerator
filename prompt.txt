@@ -1,0 +1,15 @@
+Write a concise, highly personalized cold email to inquire about hiring opportunities at [COMPANY NAME]. Use the company's mission, values, and relevant information from their website along with my background/resume as your primary sources. 
+
+Construct the email following this structure:
+
+1. Start with an appropriate greeting to a specific person or team at the company
+2. Introduce myself briefly by name
+3. State clearly that I'm inquiring about [POSITION]
+
+Then seamlessly integrate these elements into a coherent narrative (no bullet points):
+- My relevant professional experience (focusing on 2-3 key roles/positions)
+- Any leadership positions I've held
+- Relevant educational background or international experience
+- Connection between 1-2 specific company initiatives/goals and my skills
+- Request for a brief conversation (15-minute call)
+- Mention of attached resume and openness to next steps
