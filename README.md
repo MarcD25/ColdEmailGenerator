@@ -1,4 +1,4 @@
-# Cold Email Internship Generator
+# RAG Cold Email Internship Generator
 
 This Python script automates the process of generating cold emails for hiring opportunities using Ollama (model: llama3:8b).
 
